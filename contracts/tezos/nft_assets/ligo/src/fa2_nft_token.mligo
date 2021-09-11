@@ -50,7 +50,7 @@ let get_balance (p, ledger : balance_of_param * ledger) : operation =
   Tezos.transaction responses 0mutez p.callback
 
 (**
-Update leger balances according to the specified transfers. Fails if any of the
+Update ledger balances according to the specified transfers. Fails if any of the
 permissions or constraints are violated.
 @param txs transfers to be applied to the ledger
 @param validate_op function that validates of the tokens from the particular owner can be transferred. 
