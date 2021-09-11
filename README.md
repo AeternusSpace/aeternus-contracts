@@ -1,2 +1,3 @@
-# aeternus-contracts
-Smart Contracts for Aeternus
+# Aeternus Contracts
+
+This repo contains the smart contracts for Aeternus.
